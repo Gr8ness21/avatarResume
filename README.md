@@ -42,8 +42,9 @@ Users are able to click on referral links to contact references
 * Users can change the theme.
 
 ## <a name="deployment"></a>Deployed Link
-[Netlify]([https://link.netlify.com](https://link.netlify.app))
-[Github Pages]([https://githublink](https://githublink))
+* [Netlify]([https://link.netlify.com](https://link.netlify.app))
+
+* [Github Pages]([https://gr8ness21.github.io/avatarResume/](https://gr8ness21.github.io/avatarResume/))
 
 * You can view the repository:
 [Github.com](https://github.com/Gr8ness21/avatarResume)
